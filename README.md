@@ -28,7 +28,7 @@ In this repo, we list some related work on propositions in NLP. Corrections and 
 
 ### Field Overview
 
-The research on propositions in linguistics and logic has already been very in-depth, but in NLP has not been carefully explored. Thus, there are no review articles on propositions in NLP.
+The research on propositions in linguistics and logic has already been very in-depth, but in NLP has not been carefully explored. Thus, there are no review articles on propositions in NLP. Next I will introduce propositions in linguistics and related tasks in NLP.
 
 ### Propositions in Linguistic & Logic
 
