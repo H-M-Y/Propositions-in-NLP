@@ -157,7 +157,7 @@ The research on propositions in linguistics and logic has already been very in-d
 
 [The argument reasoning comprehension task: Identification and reconstruction of implicit warrants，I Habernal，2018](https://arxiv.org/abs/1708.01425)
 
-推理是自然语言论证的关键部分。要理解一个论证，必须分析它的依据，这就解释了为什么它的主张是从它的前提得出的。由于论点是高度情境化的，权证通常是预设的并且是隐含的。因此，理解不仅需要语言理解和逻辑能力，还需要常识。在本文中，我们开发了一种系统地重构权证的方法。
+推理是自然语言论证的关键部分。要理解一个论证，必须分析它的依据，这就解释了为什么它的主张是从它的前提得出的。由于论点是高度情境化的，权证通常是预设的并且是隐含的。因此，理解不仅需要语言理解和逻辑能力，还需要常识。在本文中，文章开发了一种系统地重构权证的方法。
 
 [Analogical reasoning on chinese morphological and semantic relations，Li S, Zhao Z, Hu R, et al. arXiv preprint arXiv:1805.06504, 2018](https://arxiv.org/abs/1805.06504)
 
@@ -167,11 +167,11 @@ The research on propositions in linguistics and logic has already been very in-d
 
  [RACE: Large-scale ReAding comprehension dataset from examinations，G Lai，2017](https://arxiv.org/abs/1704.04683)
 
-我们提出了 RACE，这是一个新的数据集，用于对阅读理解任务中的方法进行基准评估。RACE收集了12至18岁中国中学生英语考试，由人类专家（英语教师）生成的近28,000篇文章和近100,000个问题组成，涵盖了精心设计的各种主题以评估学生的理解和推理能力。
+文章提出了 RACE，这是一个新的数据集，用于对阅读理解任务中的方法进行基准评估。RACE收集了12至18岁中国中学生英语考试，由人类专家（英语教师）生成的近28,000篇文章和近100,000个问题组成，涵盖了精心设计的各种主题以评估学生的理解和推理能力。
 
 [Reclor: A reading comprehension dataset requiring logical reasoning，W Yu，2020](https://arxiv.org/abs/2002.04326)
 
-我们介绍了一个新的阅读理解数据集，需要从标准化研究生入学考试中提取的逻辑推理 (ReClor) .
+文章介绍了一个新的阅读理解数据集，需要从标准化研究生入学考试中提取的逻辑推理 (ReClor) .
 
 
 
@@ -189,9 +189,13 @@ The research on propositions in linguistics and logic has already been very in-d
 
 长文本上下推理，专家设计，提出ConTRoL数据集，研究长文本的NLI，并检查更复杂的上下文推理类型。
 
+[CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text, Koustuv Sinha, 2019](https://arxiv.org/abs/1908.06177)
+
+CLUTRR 要求 NLU 系统推断短篇小说中人物之间的亲属关系。成功执行此任务既需要提取实体之间的关系，也需要推断控制这些关系的逻辑规则。输入是一个给定的段落和一个查询对，输出是一对之间的关系。
+
+
+
 #### Datasets
-
-
 
 [SciTail Dataset](https://allenai.org/data/scitail)
 
@@ -201,11 +205,15 @@ SciTail 数据集是根据多项选择科学考试和网络句子创建的蕴涵
 
 该数据集源自专家编写的用于测试人类逻辑推理的问题
 
-ReClor Dataset
+[ReClor Dataset](https://whyu.me/reclor/)
+
+ReClor 是从标准化研究生入学考试的逻辑推理题中提取的数据集。
 
 ConTRoL Dataset
 
 RACE Dataset
+
+CLUTRR Dataset
 
 
 
