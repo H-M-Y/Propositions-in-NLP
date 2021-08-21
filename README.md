@@ -207,13 +207,17 @@ SciTail 数据集是根据多项选择科学考试和网络句子创建的蕴涵
 
 [ReClor Dataset](https://whyu.me/reclor/)
 
-ReClor 是从标准化研究生入学考试的逻辑推理题中提取的数据集。
+ReClor 是从标准化研究生入学考试的逻辑推理题中提取的数据集
 
 ConTRoL Dataset
+
+ConTRoL 是由专家设计的用于长文本上下推理的数据集
 
 RACE Dataset
 
 CLUTRR Dataset
+
+CLUTRR 是一个推断短篇小说中人物之间的亲属关系的数据集
 
 
 
